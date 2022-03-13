@@ -5,12 +5,14 @@ body {
 }
 
 body p {
-    color:red;
+    color:gold;
     font-size: 20px;
+    font-style: bold;
 }
 
 table {
     background-color: darkblue;
     color:gold;
-    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
 }
