@@ -4,6 +4,11 @@ body {
     color:azure
 }
 
-#introP {
+#introP p {
     color:red
+}
+
+table {
+    background-color: darkblue;
+    color:gold
 }
