@@ -4,11 +4,13 @@ body {
     color:azure
 }
 
-#introP p {
-    color:red
+body p {
+    color:red;
+    font-size: 20px;
 }
 
 table {
     background-color: darkblue;
-    color:gold
+    color:gold;
+    text-align: center;
 }
