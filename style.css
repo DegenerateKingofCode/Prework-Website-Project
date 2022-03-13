@@ -7,7 +7,7 @@ body {
 body p {
     color:gold;
     font-size: 20px;
-    font-style: bold;
+    font-style: italic;
 }
 
 table {
@@ -15,4 +15,7 @@ table {
     color:gold;
     margin-left:auto;
     margin-right:auto;
+}
+p#link {
+    color:red;
 }
