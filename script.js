@@ -3,7 +3,7 @@ h2.textContent = "Tanner Leroy: A Webpage Story"
 
 document.querySelector("body").appendChild(h2);
 
-const link = document.getElementById("link");
-link.addEventListener("click", function(){
+const imageDescription = document.getElementsByClassName("imageDescription");
+imageDescription.addEventListener("click", function() {
     alert('Swagger Alert!') 
 })
