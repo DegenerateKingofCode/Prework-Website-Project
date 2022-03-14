@@ -1,5 +1,5 @@
 body {
-    background: blue;
+    background: rgb(64, 64, 247);
     text-align: center;
     color:azure
 }
@@ -18,4 +18,18 @@ table {
 }
 p#link {
     color:crimson
+}
+
+a:link {
+    color: green
+}
+a:visited {
+    color:pink
+}
+a:hover {
+    color:red
+}
+a:active {
+    color: lightskyblue
+
 }
